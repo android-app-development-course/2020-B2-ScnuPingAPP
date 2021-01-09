@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lzy.widget:ninegridview:0.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ninegridview-0.2.0.aar/b32df553ebcfd9bb00ce925fb4581a3b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ninegridview-0.2.0.aar/b32df553ebcfd9bb00ce925fb4581a3b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ninegridview-0.2.0.aar/b32df553ebcfd9bb00ce925fb4581a3b/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lzy.widget/ninegridview/0.2.0/220d288d93bb54a16a842b715a26c4c5c03ee62a/ninegridview-0.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lzy.widget/ninegridview/0.2.0/a97ef8e46f1e3a0fd341488ffec52f238b922696/ninegridview-0.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
